@@ -4,6 +4,8 @@ package test;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
+import chapter6.PrimeNumberMethod;
+
 /**
  * Class: CMSC201
  * * Instructor:Grigoriy Grinberg
